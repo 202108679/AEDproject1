@@ -1,0 +1,21 @@
+# ninja log v5
+14	2253	6903972705626239	CMakeFiles/aed2122_ci1.dir/Tests/Book.cpp.obj	b29d01d77dd242a
+34	2572	6903972708760567	CMakeFiles/aed2122_ci1.dir/Tests/Packer.cpp.obj	445adc12b0cab050
+21	2639	6903972709582375	CMakeFiles/aed2122_ci1.dir/Tests/Bookstore.cpp.obj	7fac2bbb74004360
+2258	3460	6903972717818769	CMakeFiles/aed2122_ci1.dir/Tests/Order.cpp.obj	cd8b6fb571f86f2c
+27	3717	6903972720560456	CMakeFiles/aed2122_ci1.dir/Tests/Warehouse.cpp.obj	3937fd4d88b570a7
+1	4780	6903972731258691	CMakeFiles/aed2122_ci1.dir/main.cpp.obj	4c18da1308f39f10
+2640	5235	6903972735814384	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	bf4e286c3452e004
+2573	12583	6903972809093156	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	50c1e9d916062658
+7	3500	6903972942341263	CMakeFiles/aed2122_ci1.dir/Tests/tests.cpp.obj	d1da9a131d5503b0
+13	4557	6903972952925595	lib/libgtestd.a	225515846fc7050e
+4557	4627	6903972953639597	lib/libgtest_maind.a	45260416a4deda5f
+4628	7959	6903972986886701	aed2122_ci1.exe	171fb8511ab96199
+25	1473	6903974596522310	CMakeFiles/aed2122_ci1.dir/Tests/Packer.cpp.obj	445adc12b0cab050
+17	2263	6903974604431914	CMakeFiles/aed2122_ci1.dir/Tests/Warehouse.cpp.obj	3937fd4d88b570a7
+8	4115	6903974623026518	CMakeFiles/aed2122_ci1.dir/Tests/tests.cpp.obj	d1da9a131d5503b0
+4115	7756	6903974659411943	aed2122_ci1.exe	171fb8511ab96199
+8	1626	6926456505318558	CMakeFiles/aed2122_ci1.dir/Tests/tests.cpp.obj	d1da9a131d5503b0
+1627	4753	6926456536511826	aed2122_ci1.exe	171fb8511ab96199
+4	804	6926457308417791	CMakeFiles/aed2122_ci1.dir/Tests/Warehouse.cpp.obj	3937fd4d88b570a7
+805	3944	6926457339760569	aed2122_ci1.exe	171fb8511ab96199
